@@ -1,4 +1,4 @@
-##Antes de retomar con Unity deberías leer esto.
+## Antes de retomar con Unity deberías leer esto.
 
 Tienes un curso comprado en Domestika por si se te olvidaron las cosas.
 Hay un canal en YouTube llamado Brackeys donde explican muy bien.
